@@ -2,7 +2,7 @@
 
 # Script Name: mysql_export_with_secrets.sh
 # Purpose: Securely export a MySQL database using credentials from AWS Secrets Manager
-# Author: Rick Heiss rheiss@gmail.com rh1217@nyu.edu
+# Author: Rick Heiss rheiss@gmail.com rh1217@nyu.edu https://github.com/rheiss
 
 # ---------------------------
 # Configuration
