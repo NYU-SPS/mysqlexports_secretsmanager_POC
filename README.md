@@ -1,7 +1,5 @@
 # mysqlexports_secretsmanager_POC
 
-# mysql_export_with_secrets.sh - Proof of Concept
-
 ## Overview
 
 This script demonstrates a secure way to export a MySQL database by retrieving credentials from AWS Secrets Manager at runtime. It avoids hardcoding passwords and promotes best practices for security and operational automation.
